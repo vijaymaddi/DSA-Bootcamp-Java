@@ -19,7 +19,8 @@ class Main {
       }
       blocks[block_id] += arr[i];
     }
-
+System.out.println
+("testing the jenkins triggers");
     System.out.println(query(blocks, arr, 2, 7, 3));
   }
 
